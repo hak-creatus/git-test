@@ -14,3 +14,6 @@ git log
 
 git remote add origin https://......
 로컬 리포지토리와 연결할 원격 리포지토리 이름을 origin으로 설정
+
+git checkout "hash"
+이전 환경으로 롤백
